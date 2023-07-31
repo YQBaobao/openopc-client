@@ -12,6 +12,6 @@
 
 备注：
   - 前两种其实已经满足全部使用环境
-  - Python：直接使用RMI即可
+  - Python：直接使用RMI即可,也就是Pyro
   - C#,JAVA：需要使用 [Pyrolite](https://github.com/irmen/Pyrolite/tree/pyro4-legacy) 对接Pyro网络，或者此处提供的 HTTP
   - HTTP服务则适用任何可以发起HTTP请求的语言

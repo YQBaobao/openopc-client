@@ -1,7 +1,7 @@
 ## openopc-client
 
 ### 说明：
-- 本仓库为`openopc-python3.8`配套的客户端示例
+- 本仓库为 [openopc-python3.8](https://github.com/YQBaobao/openopc-python3.8) 配套的客户端示例
 - 示例程序使用`kepware`作为OPC DA服务端
 - 文件`kepware.KEPServerEX.V6.json`为OPC服务器配置文件，可直接导入使用
 
